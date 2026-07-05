@@ -31,13 +31,13 @@ I am a B.Tech student at **MANIT Bhopal** with a strong interest in **Data Analy
 
 ## Technical Skills
 
-**Programming & Analysis**
+**Programming & Analysis:** 
 Python, SQL, Machine Learning, Exploratory Data Analysis, Data Cleaning, Data Preprocessing
 
-**Tools & Libraries**
+**Tools & Libraries:**
 Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
-**Core Areas**
+**Core Areas:**
 Data Analysis, Business Intelligence, Dashboarding, Data Visualization, Predictive Modeling, Insight Generation
 
 ---
@@ -60,4 +60,4 @@ B.Tech – Mechanical Engineering
 ## Connect
 
 * **GitHub:** [github.com/Aditya23391-git](https://github.com/Aditya23391-git)
-* **LinkedIn:**[Linked In](https://www.linkedin.com/in/aditya-singh-564816290/)
+* **LinkedIn:** [Aditya Singh](https://www.linkedin.com/in/aditya-singh-564816290/)
