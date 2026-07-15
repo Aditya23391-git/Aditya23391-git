@@ -11,7 +11,7 @@ I am a B.Tech student at **MANIT Bhopal** with a strong interest in **Data Analy
 
 | Project                                             | Tech Stack                            | Link                                                                                                        |
 | --------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Banking Risk Analytics Dashboard**                | SQL, Python, Power BI                 | [View Project](https://github.com/Aditya23391-git/DA-PROJECT-COMBINED-/tree/main/Banking%20Analytics)       |
+| **Banking Analytics Dashboard**                | SQL, Python, Power BI                 | [View Project](https://github.com/Aditya23391-git/DA-PROJECT-COMBINED-/tree/main/Banking%20Analytics)       |
 | **Heart Disease Prediction using Machine Learning** | Python, Pandas, Seaborn, scikit-learn | [View Project](https://github.com/Aditya23391-git/ML-Projects/tree/main/Heart%20Disease%20Prediction)       |
 | **Dengue Outbreak & Rainfall Correlation Analysis** | Python, Pandas, Matplotlib, Seaborn   | [View Project](https://github.com/Aditya23391-git/DA-PROJECT-PYTHON/tree/main/Dengue%20Outbreak%20Analysis) |
 | **Olist Sales Analysis**                            | SQL, Python, Power BI                 | [View Project](https://github.com/Aditya23391-git/DA-PROJECT-COMBINED-/tree/main/Olist%20Sales%20Analysis)  |
